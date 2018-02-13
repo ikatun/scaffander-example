@@ -5,5 +5,5 @@ Instructions:
 - install the scaffander tool by running `npm install -g scaffander`
 - instantiate the example-template by running:
 ```
-scaffander template-example template-destination --myFileName my-interesting-class --className my-interesting-class
+scaffander template-example template-destination --myFileName my-interesting-class --className MyInterestingClass
 ```
